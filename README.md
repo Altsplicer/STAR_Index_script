@@ -31,7 +31,7 @@ Otherwise your job can be killed in the free partition.
 module load star/2.7.10a
 module load python/3.8.0
 module load samtools/1.10
-``` bash
+```
 
 ## Setting up Directory locations
 
