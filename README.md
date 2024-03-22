@@ -1,5 +1,7 @@
 # [Franco](https://github.com/altsplicer) / [***STAR index***]
 
+Script [LINK](https://github.com/Altsplicer/STAR_Index_script/blob/main/bash/STAR_Index.sub)
+
 ## Overview
 This a script used to build the STAR aligner specific indeces required prior to performing alignments.
 For a tutorial see [link](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/03_alignment.html)
